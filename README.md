@@ -11,10 +11,10 @@ DB Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports a
 * It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 
 ## Dashboard 
-![Screenshot (1)](https://user-images.githubusercontent.com/85751892/226269922-d3b1afcf-083d-42af-9bdc-e04828ab92bc.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/85751892/226271898-293b0b67-ba67-4c84-95ec-1d09d4f2f800.png)
 
 ## DATABASE
-![Screenshot (2)](https://user-images.githubusercontent.com/85751892/226270436-b0cd9a39-3e29-4f73-abfb-9779f4e9247c.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/85751892/226271949-8d19b199-8063-4871-a474-7dc12041caf0.png)
 
 ## Student-Form
-![Screenshot (3)](https://user-images.githubusercontent.com/85751892/226270782-79544150-c265-4f2c-b67e-f6841b6a2bd0.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/85751892/226272014-0b169b9b-b160-4d55-94a9-16093d868040.png)
